@@ -43,7 +43,26 @@ a{
     text-decoration: none;
     color: #00c1d0;
 }
-table,th,td{
+table{
+    width: 1000px;
     border: 1px solid black;
     border-collapse: collapse;
+    margin: 0 auto;
 }
+th, td{
+    border: 1px solid black;
+    text-align: center;
+}
+td:first-child{
+    width: 80px;
+}
+
+#curso{
+    background-color: black;
+    color: #bb5f21;
+}
+.DiasDaSemana{
+    background-color: black;
+    color: white;
+}
+
