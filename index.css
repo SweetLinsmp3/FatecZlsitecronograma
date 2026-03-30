@@ -9,4 +9,10 @@ img:not(#barra){
     display: flex;
     gap: 200px;
 }
+.centralizar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 
