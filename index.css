@@ -39,3 +39,11 @@ figcaption{
     text-align: center;
     color: #00c1d0;
 }
+a{
+    text-decoration: none;
+    color: #00c1d0;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
