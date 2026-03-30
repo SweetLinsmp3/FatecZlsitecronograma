@@ -1,1 +1,1 @@
-URL: https://github.com/SweetLinsmp3/FatecZlsitecronograma.git
+URL: https://sweetlinsmp3.github.io/FatecZlsitecronograma/
